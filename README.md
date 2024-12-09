@@ -1,0 +1,1 @@
+This repository demonstrates an example of uncommon code errors or bugs in Dart programming. The `bug.dart` file contains code that is prone to errors during JSON decoding and has a general exception-catching mechanism.  The `bugSolution.dart` file shows how to improve the code to handle these errors more effectively and provide better error reporting and logging.
